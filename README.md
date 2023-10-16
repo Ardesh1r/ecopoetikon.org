@@ -3,3 +3,5 @@ Ecopoetry has a vital role to play in raising awareness about ecological issues,
 Ecopoetikon aims to offer equal voice and representation to established ecopoets from around the world. Based in the Creative School at the University of Gloucestershire in the UK, Ecopoetikon is a developing research project that showcases a diverse international network of ecopoets through an online mapping project.
 
 https://ecopoetikon.org
+
+![image](https://github.com/Ardesh1r/ecopoetikon.org/assets/99552814/dbdef29e-2372-4621-abec-003fd0add10a)
