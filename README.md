@@ -6,5 +6,9 @@ https://ecopoetikon.org
 
 ![image](https://github.com/Ardesh1r/ecopoetikon.org/assets/99552814/0d00e51b-6203-4b61-ad81-fdf9eb033561)
 
-Management Dashboard Overview:
+
+**Management Dashboard Overview:**
 ![image](https://github.com/Ardesh1r/ecopoetikon.org/assets/99552814/9f874712-4b5f-49f1-b7dc-b2e0cce35d57)
+
+
+![image](https://github.com/Ardesh1r/ecopoetikon.org/assets/99552814/9f5c9d79-1e7d-4d6d-98f4-a11e8c3ea0f8)
