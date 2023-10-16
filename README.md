@@ -4,4 +4,5 @@ Ecopoetikon aims to offer equal voice and representation to established ecopoets
 
 https://ecopoetikon.org
 
-![image](https://github.com/Ardesh1r/ecopoetikon.org/assets/99552814/dbdef29e-2372-4621-abec-003fd0add10a)
+![image](https://github.com/Ardesh1r/ecopoetikon.org/assets/99552814/0d00e51b-6203-4b61-ad81-fdf9eb033561)
+
